@@ -1,0 +1,1 @@
+A plugin for foobar2000 which downloads, saves and displays synced or unsynced lyrics
